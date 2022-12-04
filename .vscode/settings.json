@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": {
+        "terminal.external.osxExec": "iTerm.app",
+        "terminal.integrated.fontFamily": "D2Coding",
+    }
+}
